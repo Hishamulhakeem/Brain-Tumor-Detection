@@ -12,7 +12,6 @@ This project uses **Deep Learning (VGG19 Transfer Learning)** to classify MRI br
 ## 📂 Dataset
 
 Brain MRI images (Tumor / No Tumor).
-*(Replace with your dataset link if public.)*
 
 ## ⚙️ Tech Stack
 
