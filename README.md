@@ -34,7 +34,3 @@ model.predict(img_array)
 * Outputs prediction with label (`yes` / `no`)
 * Displays MRI image with predicted class
 
-## 📜 License
-
-Open for educational and research purposes.
-
